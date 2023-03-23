@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/germa/ITU/fourth/large_scale/LSDA_a2/gebu_a2/mlruns/1/de135af898a942e1a2ecf92bc165399e/artifacts
+end_time: 1679498036909
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: de135af898a942e1a2ecf92bc165399e
+run_uuid: de135af898a942e1a2ecf92bc165399e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679498029441
+status: 3
+tags: []
+user_id: germa

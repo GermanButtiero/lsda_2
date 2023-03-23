@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/germa/ITU/fourth/large_scale/LSDA_a2/gebu_a2/mlruns/0/b5ef8398e04a4073a56ab69c27ddcf10/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5ef8398e04a4073a56ab69c27ddcf10
+run_name: fun-squirrel-115
+run_uuid: b5ef8398e04a4073a56ab69c27ddcf10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679501636472
+status: 1
+tags: []
+user_id: germa

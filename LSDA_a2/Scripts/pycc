@@ -1,0 +1,3 @@
+#!c:\users\germa\itu\fourth\large_scale\lsda_a2\gebu_a2\lsda_a2\scripts\python.exe
+from numba.pycc import main
+main()

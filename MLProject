@@ -1,0 +1,7 @@
+name: project
+
+conda_env: conda.yml
+
+entry_points:
+  main:
+    command: "python3 best_model.py"

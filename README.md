@@ -1,0 +1,1 @@
+Repository of assignment 2 for the course Large Scale Data Analysis where I use MLflow for tracking, reproducing and deploying machine learning models.
